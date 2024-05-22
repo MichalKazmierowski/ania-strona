@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: O mnie
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Jestem absolwentką pięcioletnich studiów magisterskich z psychologii na Uniwersytecie Warszawskim. Wiedzę psychologiczną zdobywałam też na Uniwersytecie w Maastricht (Holandia) i Uniwersytecie w Oslo (Norwegia). W 2023 uzyskałam tytuł doktora nauk biologicznych w Instytucie Biologii Doświadczalnej Polskiej Akademii Nauk. Moja praca dotyczyła mózgowego podłoża zjawiska zarażania się emocjami. W ramach pracy badawczej uczestniczyłam w licznych konferencjach i szkoleniach, m.in w Kanadzie, Brazylii, Wielkiej Brytanii i Niemczech.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Mimo że wiele lat poświęciłam pracy naukowej, najlepiej czuję się pracując z ludźmi. Cieszę się, że mogę wykorzystywać swoją wiedzę i umiejętności aby wspierać innych. Doświadczenie psychologiczne zdobywałam m.in. w warszawskim Szpitalu Nowowiejskim oraz w Klinice Neurochirurgii Warszawskiego Uniwersytetu Medycznego. Ukończyłam pierwszy stopień kursu Terapii Skoncentrowanej na Rozwiązaniach i w tym nurcie wspieram na co dzień swoich klientów.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Jestem członkinią norweskiego Towarzystwa Psychologicznego (Psykologforeningen). Swoją pracę poddaję regularnej superwizji. W trosce o rozwój zawodowy stale się kształcę, uczestnicząc w kursach i szkoleniach.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Od 2023 roku mieszkam w Oslo wraz z mężem, córeczką i psem Beskidem.

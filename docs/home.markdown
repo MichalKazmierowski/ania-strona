@@ -1,6 +1,7 @@
 ---
 layout: page
 #title: Home
+permalink: /home/
 ---
 
 Dziękuję, że tu jesteś. Nazywam się Anna Kaźmierowska, jestem polskim psychologiem w trakcie autoryzacji zawodu w Norwegii. Jestem też badaczką - posiadam tytuł doktora nauk biologicznych, a temat który mnie fascynuje to neurobiologia emocji, czyli ich mózgowe podstawy. 
